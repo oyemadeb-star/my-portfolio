@@ -1,9 +1,9 @@
 # my-portfolio
-# 🌐 Cloud Portfolio Website
+#  Cloud Portfolio Website
 
 A colorful, modern, responsive HTML/CSS portfolio designed for a Junior Cloud Engineer.
 
-## 🚀 Getting Started Locally
+##  Getting Started Locally
 
 Follow these quick steps to set up the project on your local machine for testing and customization.
 
